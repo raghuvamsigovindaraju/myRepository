@@ -15,7 +15,7 @@
     <input type="text" name="m1">
     <button name="action" value="f">FORWARD</button>
     <button name="action" value="r">REDIRECT</button>
-    
+    <button name="action" value="r">REDIRECT2</button>
     </label>
 
 </form>
