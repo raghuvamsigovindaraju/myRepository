@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>VisitorPage</title>
+<title>VisitorPage updated</title>
 </head>
 <body>
 <jsp:include page="header.jsp"/>
