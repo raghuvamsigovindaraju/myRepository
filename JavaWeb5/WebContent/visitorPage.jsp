@@ -37,7 +37,7 @@
    <option value="Mr.">Mr</option>
    <option value="Mrs.">Mrs</option>
    <option value="Dr.">Dr</option>
-<option value="Other">Other</option>
+   <option value="Mis">Miss</option>
    </select>
    </Label><br/>
 <Label>Full Name: <input type="text" name="fullName" required/></Label><br/>
